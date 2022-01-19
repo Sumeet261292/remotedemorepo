@@ -1,6 +1,7 @@
-Class Abc{
+Class Xyz{
+
 	public static void main(String[] args){
-		System.out.println("Hello ABC");
+		System.out.println("Hi XYZ");
 	}
 
 }
